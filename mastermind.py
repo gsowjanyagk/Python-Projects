@@ -8,7 +8,7 @@ print("-" * 75)
 
 #randno = random.randint(1000, 9999)
 randno = f"{random.randint(0, 9999):04d}"
-print(randno)
+#print(randno)
 attempts = 0
 
 while True:
