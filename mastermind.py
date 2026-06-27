@@ -6,8 +6,9 @@ print("The objective of the games is to guess the randomly generated 4 digit num
 print("You will be told if you have placed the correct digit in the correct position.")
 print("-" * 75)
 
-randno = random.randint(1000, 9999)
-#print(randno)
+#randno = random.randint(1000, 9999)
+randno = f"{random.randint(0, 9999):04d}"
+print(randno)
 attempts = 0
 
 while True:
@@ -20,14 +21,13 @@ while True:
     except ValueError:
         print("Invalid input. Please enter a 4 digit number.")
         continue
-    if int(guess) == randno:
+    if guess == randno:
         print(f"Yay! You've guessed the number {randno} in {attempts} attempt(s)!")
         break
-    randnostr = str(randno)
     correct = 0
     outputlist = ['x'] * 4
     for i in range(4):
-        if guess[i] == randnostr[i]:
+        if guess[i] == randno[i]:
             correct += 1
             outputlist[i] = guess[i]
     print(f"Not there yet! You have {correct} digit(s) in the correct position.")
