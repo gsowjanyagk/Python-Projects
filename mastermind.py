@@ -14,7 +14,7 @@ while True:
     try:
         guess = input("Enter a 4 digit number: ")
         attempts += 1
-        if int(guess) < 1000 or int(guess) > 9999:
+        if len(guess) != 4 or not guess.isdigit():
             print("Invalid input. Please enter a 4 digit number.")
             continue
     except ValueError:
