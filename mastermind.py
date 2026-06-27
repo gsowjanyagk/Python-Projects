@@ -7,7 +7,7 @@ print("You will be told if you have placed the correct digit in the correct posi
 print("-" * 75)
 
 randno = random.randint(1000, 9999)
-print(randno)
+#print(randno)
 attempts = 0
 
 while True:
