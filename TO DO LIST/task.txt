@@ -1,0 +1,6 @@
+Open file
+add task
+view task
+mark tasks as complete
+don't perform val errors
+quit program
