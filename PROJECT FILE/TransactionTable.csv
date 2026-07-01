@@ -1,0 +1,201 @@
+Cust_id,Title,Book_id,Total
+1025,The Hunger Games,2006,349.3
+1010,Harry Potter and the Deathly Hallows,2005,674.25
+1044,Wonder,2017,333.52
+1031,Harry Potter and the Sorcerer's Stone,2003,559.2
+1007,The Book Thief,2016,349.3
+1082,The Diary of a Young Girl,2001,263.12
+1115,The Alchemist,2039,269.78
+1020,Harry Potter and the Goblet of Fire,2004,655.18
+1050,Catching Fire,2007,359.28
+1003,The Ballad of Songbirds and Snakes,2009,356.85
+1098,The Girl Who Drank the Moon,2014,319.2
+1012,The Fault in Our Stars,2022,299.25
+1035,A Wrinkle in Time,2018,296.65
+1104,The Power of Habit,2041,389.22
+1060,Little Women,2020,351.12
+1078,The Hunger Games,2006,349.3
+1041,Think Like a Monk,2042,384.3
+1006,The 7 Habits of Highly Effective People,2045,399.2
+1029,Harry Potter and the Sorcerer's Stone,2003,559.2
+1080,Atomic Habits,2040,466.65
+1018,The Diary of a Young Girl,2001,263.12
+1001,The Call of the Wild,2030,269.1
+1033,Mockingjay,2008,389.22
+1090,The Perks of Being a Wallflower,2048,378.12
+1055,The Boy in the Striped Pyjamas,2047,335.16
+1070,The Diary of a Young Girl,2001,263.12
+1023,The Alchemist,2039,269.78
+1015,To Kill a Mockingbird,2002,390.15
+1045,The Secret Garden,2028,254.15
+1105,Harry Potter and the Deathly Hallows,2005,674.25
+1039,The Lightning Thief,2023,409.18
+1008,The Hunger Games,2006,349.3
+1021,The Girl Who Drank the Moon,2014,319.2
+1040,The Book Thief,2016,349.3
+1092,Harry Potter and the Goblet of Fire,2004,655.18
+1011,Wonder,2017,333.52
+1072,The Time Machine,2025,296.1
+1085,The Maze Runner,2024,389.22
+1027,The Cruel Prince,2011,439.12
+1036,The Hunger Games,2006,349.3
+1052,The Secret Garden,2028,254.15
+1004,The Diary of a Young Girl,2001,263.12
+1101,Harry Potter and the Sorcerer's Stone,2003,559.2
+1065,The Fault in Our Stars,2022,299.25
+1075,Harry Potter and the Deathly Hallows,2005,674.25
+1024,The Alchemist,2039,269.78
+1013,A Wrinkle in Time,2018,296.65
+1099,The Hunger Games,2006,349.3
+1043,The Ballad of Songbirds and Snakes,2009,356.85
+1081,The 7 Habits of Highly Effective People,2045,399.2
+1030,The Call of the Wild,2030,269.1
+1022,Little Women,2020,351.12
+1002,The Diary of a Young Girl,2001,263.12
+1079,Harry Potter and the Goblet of Fire,2004,655.18
+1054,The Diary of a Young Girl,2001,263.12
+1062,The Hunger Games,2006,349.3
+1049,Wonder,2017,333.52
+1103,Harry Potter and the Sorcerer's Stone,2003,559.2
+1019,The Girl Who Drank the Moon,2014,319.2
+1088,The Maze Runner,2024,389.22
+1038,The Boy in the Striped Pyjamas,2047,335.16
+1051,Harry Potter and the Deathly Hallows,2005,674.25
+1005,The Diary of a Young Girl,2001,263.12
+1026,The Hunger Games,2006,349.3
+1032,The Diary of a Young Girl,2001,263.12
+1083,The Lightning Thief,2023,409.18
+1009,The Diary of a Young Girl,2001,263.12
+1068,Harry Potter and the Goblet of Fire,2004,655.18
+1016,The Book Thief,2016,349.3
+1074,Wonder,2017,333.52
+1046,The Ballad of Songbirds and Snakes,2009,356.85
+1102,Harry Potter and the Deathly Hallows,2005,674.25
+1017,The Hunger Games,2006,349.3
+1028,A Wrinkle in Time,2018,296.65
+1056,The Alchemist,2039,269.78
+1037,The Diary of a Young Girl,2001,263.12
+1087,The 7 Habits of Highly Effective People,2045,399.2
+1014,The Secret Garden,2028,254.15
+1091,The Power of Habit,2041,389.22
+1003,Harry Potter and the Sorcerer's Stone,2003,559.2
+1064,The Hunger Games,2006,349.3
+1020,The Girl Who Drank the Moon,2014,319.2
+1100,Wonder,2017,333.52
+1042,The Boy in the Striped Pyjamas,2047,335.16
+1053,Harry Potter and the Goblet of Fire,2004,655.18
+1034,The Diary of a Young Girl,2001,263.12
+1007,The Lightning Thief,2023,409.18
+1076,The Hunger Games,2006,349.3
+1021,The Diary of a Young Girl,2001,263.12
+1089,The Call of the Wild,2030,269.1
+1011,Little Women,2020,351.12
+1041,The Diary of a Young Girl,2001,263.12
+1093,The Diary of a Young Girl,2001,263.12
+1030,Harry Potter and the Deathly Hallows,2005,674.25
+1050,The Hunger Games,2006,349.3
+1005,Wonder,2017,333.52
+1073,Harry Potter and the Sorcerer's Stone,2003,559.2
+1019,The Girl Who Drank the Moon,2014,319.2
+1086,The Maze Runner,2024,389.22
+1022,The Boy in the Striped Pyjamas,2047,335.16
+1038,Harry Potter and the Deathly Hallows,2005,674.25
+1051,The Diary of a Young Girl,2001,263.12
+1004,The Hunger Games,2006,349.3
+1075,The Alchemist,2039,269.78
+1024,Harry Potter and the Goblet of Fire,2004,655.18
+1013,The Diary of a Young Girl,2001,263.12
+1099,Wonder,2017,333.52
+1043,The Lightning Thief,2023,409.18
+1081,The Hunger Games,2006,349.3
+1030,The Diary of a Young Girl,2001,263.12
+1022,The Book Thief,2016,349.3
+1002,The Secret Garden,2028,254.15
+1079,Harry Potter and the Deathly Hallows,2005,674.25
+1054,The Diary of a Young Girl,2001,263.12
+1062,The Diary of a Young Girl,2001,263.12
+1049,The Hunger Games,2006,349.3
+1103,Wonder,2017,333.52
+1019,Harry Potter and the Goblet of Fire,2004,655.18
+1088,The Diary of a Young Girl,2001,263.12
+1038,The Boy in the Striped Pyjamas,2047,335.16
+1051,The Diary of a Young Girl,2001,263.12
+1005,Harry Potter and the Deathly Hallows,2005,674.25
+1026,The Diary of a Young Girl,2001,263.12
+1032,The Lightning Thief,2023,409.18
+1083,The Hunger Games,2006,349.3
+1009,The Diary of a Young Girl,2001,263.12
+1068,Harry Potter and the Goblet of Fire,2004,655.18
+1016,The Book Thief,2016,349.3
+1074,Wonder,2017,333.52
+1046,The Ballad of Songbirds and Snakes,2009,356.85
+1102,Harry Potter and the Deathly Hallows,2005,674.25
+1017,The Hunger Games,2006,349.3
+1028,A Wrinkle in Time,2018,296.65
+1056,The Alchemist,2039,269.78
+1037,The Diary of a Young Girl,2001,263.12
+1087,The 7 Habits of Highly Effective People,2045,399.2
+1014,The Secret Garden,2028,254.15
+1091,The Power of Habit,2041,389.22
+1064,Little Women,2020,351.12
+1027,The Diary of a Young Girl,2001,263.12
+1084,The Maze Runner,2024,389.22
+1012,The Hunger Games,2006,349.3
+1053,Harry Potter and the Deathly Hallows,2005,674.25
+1035,Wonder,2017,333.52
+1006,The Alchemist,2039,269.78
+1071,Harry Potter and the Goblet of Fire,2004,655.18
+1023,The Diary of a Young Girl,2001,263.12
+1105,The Lightning Thief,2023,409.18
+1015,The Hunger Games,2006,349.3
+1047,The Diary of a Young Girl,2001,263.12
+1080,The Book Thief,2016,349.3
+1039,Wonder,2017,333.52
+1008,Harry Potter and the Goblet of Fire,2004,655.18
+1078,The Diary of a Young Girl,2001,263.12
+1020,The Maze Runner,2024,389.22
+1100,The Hunger Games,2006,349.3
+1042,Harry Potter and the Deathly Hallows,2005,674.25
+1011,The Diary of a Young Girl,2001,263.12
+1093,Little Women,2020,351.12
+1030,The Hunger Games,2006,349.3
+1051,The Alchemist,2039,269.78
+1005,Wonder,2017,333.52
+1073,Harry Potter and the Goblet of Fire,2004,655.18
+1019,The Diary of a Young Girl,2001,263.12
+1086,The Book Thief,2016,349.3
+1022,The Lightning Thief,2023,409.18
+1038,The Diary of a Young Girl,2001,263.12
+1051,The Hunger Games,2006,349.3
+1005,Harry Potter and the Deathly Hallows,2005,674.25
+1026,Wonder,2017,333.52
+1032,The Diary of a Young Girl,2001,263.12
+1083,The Maze Runner,2024,389.22
+1009,The Hunger Games,2006,349.3
+1068,Harry Potter and the Goblet of Fire,2004,655.18
+1016,The Diary of a Young Girl,2001,263.12
+1074,The Book Thief,2016,349.3
+1046,Wonder,2017,333.52
+1102,The Diary of a Young Girl,2001,263.12
+1017,The Lightning Thief,2023,409.18
+1028,The Diary of a Young Girl,2001,263.12
+1056,The Hunger Games,2006,349.3
+1037,Harry Potter and the Goblet of Fire,2004,655.18
+1087,Wonder,2017,333.52
+1014,The Diary of a Young Girl,2001,263.12
+1091,The Book Thief,2016,349.3
+1064,The Diary of a Young Girl,2001,263.12
+1027,The Hunger Games,2006,349.3
+1084,Harry Potter and the Deathly Hallows,2005,674.25
+1012,The Diary of a Young Girl,2001,263.12
+1053,Wonder,2017,333.52
+1035,The Alchemist,2039,269.78
+1006,Harry Potter and the Goblet of Fire,2004,655.18
+1071,The Diary of a Young Girl,2001,263.12
+1023,The Lightning Thief,2023,409
+1036,Atomic Habits,2040,466.65
+1084,The Diary of a Young Girl,2001,263.12
+1058,The Fault in Our Stars,2022,299.25
+1072,The Lightning Thief,2023,409.18
+1095,The Power of Habit,2041,389.22
+1028,The Book Thief,2016,349.3

@@ -1,0 +1,51 @@
+Book_id,Book_name,Book_price,Book_discount,Book_stock,Book_SaleRate (%)
+2001,The Diary of a Young Girl,299,12,21,55
+2002,To Kill a Mockingbird,459,15,24,88
+2003,Harry Potter and the Sorcerer's Stone,699,20,50,99
+2004,Harry Potter and the Goblet of Fire,799,18,16,95
+2005,Harry Potter and the Deathly Hallows,899,25,40,97
+2006,The Hunger Games,499,30,37,94
+2007,Catching Fire,499,28,29,91
+2008,Mockingjay,499,22,41,89
+2009,The Ballad of Songbirds and Snakes,549,35,33,70
+2010,Six of Crows,549,15,38,96
+2011,The Cruel Prince,499,12,35,85
+2012,One of Us is Lying,429,14,42,93
+2013,The Hate U Give,399,18,39,97
+2014,The Girl Who Drank the Moon,399,20,36,90
+2015,Keeper of the Lost Cities,499,22,34,87
+2016,The Book Thief,499,30,19,72
+2017,Wonder,379,12,34,66
+2018,A Wrinkle in Time,349,15,20,40
+2019,Anne of Green Gables,349,16,18,50
+2020,Little Women,399,12,16,60
+2021,The Catcher in the Rye,429,10,22,45
+2022,The Fault in Our Stars,399,25,38,91
+2023,The Lightning Thief,499,18,23,82
+2024,The Maze Runner,499,22,32,78
+2025,The Time Machine,329,10,12,25
+2026,Around the World in Eighty Days,349,14,15,20
+2027,The War of the Worlds,379,20,18,30
+2028,The Secret Garden,299,15,10,18
+2029,A Christmas Carol,299,12,12,22
+2030,The Call of the Wild,299,10,10,15
+2031,Treasure Island,329,18,9,10
+2032,Lord of the Flies,399,12,8,12
+2033,Animal Farm,299,25,25,48
+2034,Holes,329,15,14,28
+2035,The Outsiders,349,12,20,35
+2036,Paper Towns,399,14,17,55
+2037,The Midnight Library,549,20,33,89
+2038,The Invisible Man,349,12,27,63
+2039,The Alchemist,329,18,39,92
+2040,Atomic Habits,549,15,47,99
+2041,The Power of Habit,499,22,22,80
+2042,Think Like a Monk,549,30,35,77
+2043,Ikigai,399,12,56,94
+2044,The Psychology of Money,449,14,19,88
+2045,The 7 Habits of Highly Effective People,499,20,38,91
+2046,Tuesdays with Morrie,399,10,15,50
+2047,The Boy in the Striped Pyjamas,399,16,20,42
+2048,The Perks of Being a Wallflower,429,12,35,68
+2049,The Curious Incident of the Dog in the Night-Time,399,15,16,60
+2050,Life of Pi,449,18,35,73
